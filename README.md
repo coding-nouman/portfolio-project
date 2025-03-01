@@ -3,7 +3,7 @@
 A simple personal portfolio built with **HTML & CSS** to showcase my web development learning journey.
 
 ## 🔗 Live Demo  
-➡ [Coming Soon](https://coding-nouman.github.io/portfolio-project/)
+➡ [Live Now](https://coding-nouman.github.io/portfolio-project/)
 
 ---
 
